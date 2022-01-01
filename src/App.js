@@ -1,10 +1,26 @@
+import React from "react";
+import { Route, Routes } from "react-router-dom";
+import Experiences from "./components/Experiences";
+import Partners from "./components/Partners";
+import TravelAdvisory from "./components/TravelAdvisory";
+import Contact from "./components/Contact";
+import Navbar from "./components/Navbar";
+
 const App = () => {
   return (
     <div>
-      <h1>Hello word</h1>
-      <p>hi</p>
+      <Navbar />
     </div>
   );
 };
 
 export default App;
+
+{
+  /* <Routes>
+<Route path="/" element={<Experiences />} />
+<Route path="/" element={<Partners />} />
+<Route path="/" element={<TravelAdvisory />} />
+<Route path="/" element={<Contact />} />
+</Routes> */
+}
