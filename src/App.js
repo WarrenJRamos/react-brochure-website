@@ -4,13 +4,15 @@ import Experiences from "./components/Experiences";
 import Partners from "./components/Partners";
 import TravelAdvisory from "./components/TravelAdvisory";
 import Contact from "./components/Contact";
-import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import GlobalStyles from "./styles/GlobalStyled";
 
 const App = () => {
   return (
     <div>
-      <div>COVID-19 Advisory</div>
-      <Navbar />
+      <GlobalStyles />
+      {/* <div>COVID-19 Advisory</div> */}
+      <Header />
       <Experiences />
       <Partners />
       <Contact />
