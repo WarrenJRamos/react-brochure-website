@@ -9,7 +9,12 @@ import Navbar from "./components/Navbar";
 const App = () => {
   return (
     <div>
+      <div>COVID-19 Advisory</div>
       <Navbar />
+      <Experiences />
+      <Partners />
+      <Contact />
+      <TravelAdvisory />
     </div>
   );
 };

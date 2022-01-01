@@ -3,8 +3,11 @@ import React from "react";
 const Experiences = () => {
   return (
     <div id="experiences">
-      <h2>experiences</h2>
-      <p>text</p>
+      <h1>Sail Away</h1>
+      <p>
+        We are Cebu's ultimate island hopping specialist. Let us take you away
+        for a once in a lifetime adventure on the seas. All aboard?
+      </p>
     </div>
   );
 };
