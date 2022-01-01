@@ -5,6 +5,7 @@ import Partners from "./components/Partners";
 import TravelAdvisory from "./components/TravelAdvisory";
 import Contact from "./components/Contact";
 import Header from "./components/Header";
+import { Container } from "./styles/ContainerStyled";
 import GlobalStyles from "./styles/GlobalStyled";
 
 const App = () => {
@@ -13,10 +14,12 @@ const App = () => {
       <GlobalStyles />
       {/* <div>COVID-19 Advisory</div> */}
       <Header />
-      <Experiences />
-      <Partners />
-      <Contact />
-      <TravelAdvisory />
+      <Container>
+        <Experiences />
+        <Partners />
+        <Contact />
+        <TravelAdvisory />
+      </Container>
     </div>
   );
 };

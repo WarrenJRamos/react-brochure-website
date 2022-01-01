@@ -1,11 +1,12 @@
 import React from "react";
+import { TravelAdvisoryContainer } from "../styles/TravelAdvisoryStyled";
 
 const TravelAdvisory = () => {
   return (
-    <div id="travel">
+    <TravelAdvisoryContainer id="travel">
       <h2>travel</h2>
       <p>text</p>
-    </div>
+    </TravelAdvisoryContainer>
   );
 };
 

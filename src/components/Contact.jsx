@@ -1,11 +1,12 @@
 import React from "react";
+import { ContactContainer } from "../styles/ContactStyled";
 
 const Contact = () => {
   return (
-    <div id="contact">
-      <h2>dummy</h2>
+    <ContactContainer id="contact">
+      <h2>Contact</h2>
       <p>text</p>
-    </div>
+    </ContactContainer>
   );
 };
 
