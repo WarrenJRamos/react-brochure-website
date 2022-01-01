@@ -14,12 +14,14 @@ const App = () => {
       <GlobalStyles />
       {/* <div>COVID-19 Advisory</div> */}
       <Header />
-      <Container>
-        <Experiences />
-        <Partners />
-        <Contact />
-        <TravelAdvisory />
-      </Container>
+      <main>
+        <Container>
+          <Experiences />
+          <Partners />
+          <Contact />
+          <TravelAdvisory />
+        </Container>
+      </main>
     </div>
   );
 };
