@@ -12,9 +12,9 @@ const App = () => {
   return (
     <div>
       <GlobalStyles />
-      <div className="advisory">
+      <a className="advisory" href="#travel">
         <button>COVID-19 Advisory</button>
-      </div>
+      </a>
       <Header />
       <main>
         <Container>

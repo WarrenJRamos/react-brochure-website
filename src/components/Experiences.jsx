@@ -12,10 +12,10 @@ const Experiences = () => {
         <br /> Let us take you away for a once in a lifetime adventure on the
         seas. All aboard?
       </p>
-      <button className="next">
+      <a className="next" href="#partners">
         <img src={sailboat} alt="sail" />
         <img src={arrow} alt="arrow" />
-      </button>
+      </a>
     </ExperiencesContainer>
   );
 };
