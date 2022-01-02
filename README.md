@@ -1,3 +1,15 @@
+# Summary
+
+My website implementation of sail away cruises.
+
+## Design Resources:
+
+https://www.instagram.com/p/CNogBy_gP7s/
+
+## Credits:
+
+Thank you @icreates.design for letting me use your design to practice building my brochure website!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
