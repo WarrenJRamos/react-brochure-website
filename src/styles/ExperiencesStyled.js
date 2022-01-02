@@ -26,6 +26,19 @@ const ExperiencesContainer = styled.div`
       text-align: center;
     }
   }
+
+  .next {
+    border: none;
+    background: transparent;
+    position: absolute;
+    bottom: 0;
+    z-index: 10;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 9px;
+  }
 `;
 
 export { ExperiencesContainer };

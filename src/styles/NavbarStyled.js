@@ -8,6 +8,10 @@ const NavbarContainer = styled.nav`
       padding: 18px 0px 18px 0px;
       font-size: 18px;
       line-height: 22px;
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
     }
   }
 `;

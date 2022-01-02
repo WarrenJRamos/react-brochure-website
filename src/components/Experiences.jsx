@@ -1,5 +1,7 @@
 import React from "react";
 import { ExperiencesContainer } from "../styles/ExperiencesStyled";
+import sailboat from "../images/sailboat.svg";
+import arrow from "../images/arrow.svg";
 
 const Experiences = () => {
   return (
@@ -10,6 +12,10 @@ const Experiences = () => {
         <br /> Let us take you away for a once in a lifetime adventure on the
         seas. All aboard?
       </p>
+      <button className="next">
+        <img src={sailboat} alt="sail" />
+        <img src={arrow} alt="arrow" />
+      </button>
     </ExperiencesContainer>
   );
 };

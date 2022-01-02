@@ -12,7 +12,9 @@ const App = () => {
   return (
     <div>
       <GlobalStyles />
-      {/* <div>COVID-19 Advisory</div> */}
+      <div className="advisory">
+        <button>COVID-19 Advisory</button>
+      </div>
       <Header />
       <main>
         <Container>

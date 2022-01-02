@@ -6,10 +6,18 @@ const Navbar = () => {
   return (
     <NavbarContainer>
       <ul>
-        <li href="#experiences">Experiences</li>
-        <li href="#partners">Partners</li>
-        <li href="#contact">Contact Us</li>
-        <li href="#travel">Travel Advisory</li>
+        <li>
+          <a href="#experiences">Experiences</a>
+        </li>
+        <li>
+          <a href="#partners">Partners</a>
+        </li>
+        <li>
+          <a href="#contact">Contact Us</a>
+        </li>
+        <li>
+          <a href="#travel">Travel Advisory</a>
+        </li>
       </ul>
     </NavbarContainer>
   );
