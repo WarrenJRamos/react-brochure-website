@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/brochure-website/static/js/main.97b3556c.js",
+    "static/media/advisory.jpg": "/brochure-website/static/media/advisory.48cff73fedba694b67b7.jpg",
+    "static/media/sailaway.png": "/brochure-website/static/media/sailaway.daf136aaec8ac922c70a.png",
+    "static/media/beaches.jpg": "/brochure-website/static/media/beaches.8ca1b6964952295082f9.jpg",
+    "static/media/contact.jpg": "/brochure-website/static/media/contact.a96ed26701077c541f44.jpg",
+    "static/media/sailboat.svg": "/brochure-website/static/media/sailboat.18e4c385fe4578a0753fa251da0cfb9b.svg",
+    "static/media/instagram.svg": "/brochure-website/static/media/instagram.83fed5c8a676c97fcf712f4543dd1c89.svg",
+    "static/media/facebook.svg": "/brochure-website/static/media/facebook.424e4ae0ab3e0ab001df31110c7e0628.svg",
+    "static/media/twitter.svg": "/brochure-website/static/media/twitter.64d796f4475d9169729b2ed3332aee72.svg",
+    "index.html": "/brochure-website/index.html",
+    "static/media/arrow.svg": "/brochure-website/static/media/arrow.4447bcbe227b68c4ad85c547d6b1c557.svg",
+    "main.97b3556c.js.map": "/brochure-website/static/js/main.97b3556c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.97b3556c.js"
+  ]
+}
