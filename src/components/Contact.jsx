@@ -1,11 +1,11 @@
 import React from "react";
 import { ContactContainer } from "../styles/ContactStyled";
+import ContactForm from "./ContactForm";
 
 const Contact = () => {
   return (
     <ContactContainer id="contact">
-      <h2>Contact</h2>
-      <p>text</p>
+      <ContactForm />
     </ContactContainer>
   );
 };
