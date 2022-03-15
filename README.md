@@ -1,6 +1,6 @@
 # Summary
 
-My website implementation of sail away cruises.
+My website implementation of Sail Away Cruises.
 
 ## Design Resources:
 
